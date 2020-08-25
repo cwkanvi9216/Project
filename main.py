@@ -10,3 +10,4 @@ elif order == "D":
   print("That will be $11.99. Have a great rest of your day!")
 else:
   print("I couldn't understand your answer. Please try again.")
+  variable = 78
